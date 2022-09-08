@@ -1,0 +1,12 @@
+<class>
+<keyword> class </keyword>
+<identifier> Bat </identifier>
+<symbol> { </symbol>
+<classVarDec>
+<keyword> field </keyword>
+<keyword> int </keyword>
+<identifier> x </identifier>
+<symbol> , </symbol>
+<identifier> y </identifier>
+<symbol> ; </symbol>
+</classVarDec>
